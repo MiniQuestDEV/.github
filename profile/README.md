@@ -117,16 +117,6 @@ For designing our game's world, we are utilizing Tilemaps. This method allows us
 - Monitor the game for bugs
 - Fix any issues that arise
 
-## Progress Over Time
-  <img src="profile/example.gif" alt="prototype1"/>
-  <img src="profile/example2.gif" alt="prototype2"/>
-  <img src="profile/example3.gif" alt="prototype3"/>
-  <img src="profile/example4.gif" alt="prototype4"/>
-  <img src="profile/example5.gif" alt="prototype5"/>
-  <img src="profile/example6.gif" alt="prototype6"/>
-
-
-
 ## Todo
 (NOT COMPLETE LIST!)
 1. Projectiles:
