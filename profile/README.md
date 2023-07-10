@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="../mq.png" alt="miniquest"/>
+  <img src="mq.png" alt="miniquest"/>
 </p>
+
+![mq](mq.png)
 
 ## Table of Contents
 1. [About MiniQuest](#about-miniquest)
