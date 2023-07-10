@@ -1,7 +1,6 @@
 <p align="center">
   <img src="mq.png" alt="miniquest"/>
 </p>
-![mq](https://github.com/MiniQuestDEV/.github/assets/105605342/5a17012f-4a78-40ca-bdf6-5555c34878ec)
 
 ## Table of Contents
 1. [About MiniQuest](#about-miniquest)
