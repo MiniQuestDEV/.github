@@ -162,11 +162,6 @@ For designing our game's world, we are utilizing Tilemaps. This method allows us
     - [ ] Day/night cycle
     - [ ] Weather
 
-## Proposed Class Diagram
-<p align="center">
-  <img src="class_diagram.JPG" alt="class_diagram"/>
-</p>
-
 MiniQuest - Copyright Notice
 
 Copyright © 2023 by Harry Bridgen. All rights reserved.
