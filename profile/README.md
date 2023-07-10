@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="mq.png" alt="miniquest"/>
+  <img src="profile/mq.png" alt="miniquest"/>
 </p>
 
 ## Table of Contents
@@ -118,36 +118,12 @@ For designing our game's world, we are utilizing Tilemaps. This method allows us
 - Fix any issues that arise
 
 ## Progress Over Time
-  <img src="example.gif" alt="prototype1"/>
-  <img src="example2.gif" alt="prototype2"/>
-  <img src="example3.gif" alt="prototype3"/>
-  <img src="example4.gif" alt="prototype4"/>
-  <img src="example5.gif" alt="prototype5"/>
-  <img src="example6.gif" alt="prototype6"/>
-
-
-https://github.com/harrybridgen/MiniQuest/assets/105605342/45db2253-14c6-42b1-a8cb-79d0bdb87637
-
-
-
-https://github.com/harrybridgen/MiniQuest/assets/105605342/c2860954-feff-458f-9843-fbd677877c33
-
-
-
-
-https://github.com/harrybridgen/MiniQuest/assets/105605342/d66dbd86-7858-4f91-97ed-2e469900539f
-
-
-
-https://github.com/harrybridgen/MiniQuest/assets/105605342/b0ddce76-3793-470b-87f4-3a6157d4f915
-
-
-https://github.com/harrybridgen/MiniQuest-INDEV/assets/105605342/2bd5f63e-5159-4786-9852-47e9f17b7a03
-
-
-
-https://github.com/harrybridgen/MiniQuest-INDEV/assets/105605342/805b8605-98f2-4af7-bb32-1be590132d43
-
+  <img src="profile/example.gif" alt="prototype1"/>
+  <img src="profile/example2.gif" alt="prototype2"/>
+  <img src="profile/example3.gif" alt="prototype3"/>
+  <img src="profile/example4.gif" alt="prototype4"/>
+  <img src="profile/example5.gif" alt="prototype5"/>
+  <img src="profile/example6.gif" alt="prototype6"/>
 
 
 
