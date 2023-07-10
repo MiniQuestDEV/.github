@@ -2,8 +2,6 @@
   <img src="mq.png" alt="miniquest"/>
 </p>
 
-![mq](profile/mq.png)
-
 ## Table of Contents
 1. [About MiniQuest](#about-miniquest)
 2. [Gameplay](#gameplay)
