@@ -9,9 +9,6 @@
 4. [Art and Sound](#art-and-sound)
 5. [Technical](#technical)
 6. [Timeline and Milestones](#timeline-and-milestones)
-7. [Progress Over Time](#progress-over-time)
-8. [Todo](#todo)
-9. [Proposed Class Diagram](#proposed-class-diagram)
 
 ## About MiniQuest
 
