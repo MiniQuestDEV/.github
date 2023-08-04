@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../profile/mq.png" alt="MiniQuest"/>
+  <img src="profile/mq.png" alt="MiniQuest"/>
 </p>
 
 ## Table of Contents
