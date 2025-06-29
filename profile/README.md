@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="profile/mq.png" alt="MiniQuest"/>
-</p>
-
 ## Table of Contents
 1. [About MiniQuest](#about-miniquest)
 2. [Gameplay](#gameplay)
