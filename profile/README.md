@@ -7,7 +7,9 @@
 6. [Timeline and Milestones](#timeline-and-milestones)
 
 ## About MiniQuest
-
+---
+> View the YouTube Prototype Demo!
+---
 Welcome to MiniQuest, a  top-down adventure game where  the journey is full of unexpected twists and turns. Play as a village farmer thrown into a heroic journey after a dragon attack devastates your peaceful life. Brace yourself for an epic quest around the world to seek justice, explore the world, complete quests, collect items, discover secrets, and make new allies.
 
 [![MiniQuest Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/invite/2jxRmm8j3Q/)
