@@ -9,6 +9,20 @@
 ## About MiniQuest
 ---
 ### View the [YouTube Prototype Demo!](https://youtu.be/wl9MrimpCZA)
+
+## Screenshots
+
+Here are some in-game screenshots from MiniQuest that show various gameplay areas and features:
+
+![basement](./basement.JPG)  
+![cows](./cows.JPG)  
+![dragon](./dragon.JPG)  
+![dragon2](./dragon2.JPG)  
+![inn](./inn.JPG)  
+![inn2](./inn2.JPG)  
+![inn3](./inn3.JPG)  
+![mainscreen](./mainscreen.JPG)  
+![quest1](./quest1.JPG)
 ---
 Welcome to MiniQuest, a  top-down adventure game where  the journey is full of unexpected twists and turns. Play as a village farmer thrown into a heroic journey after a dragon attack devastates your peaceful life. Brace yourself for an epic quest around the world to seek justice, explore the world, complete quests, collect items, discover secrets, and make new allies.
 
