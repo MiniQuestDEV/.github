@@ -36,7 +36,7 @@ The E key is used for interactions. This includes opening chests, unlocking door
 The player can access their inventory and game menus by pressing the TAB and Esc keys, respectively. In the inventory, players can equip new items, use consumables, and view their character's stats and abilities. The game menu provides access to options such as saving and loading the game, adjusting settings, and exiting to the desktop.
 
 ### Level Design
-MiniQuest employs a sprawling world map that consists of multiple, distinct smaller maps, each featuring its own unique environment, challenges, and storylines. The player's journey will lead them through a variety of landscapes - from verdant forests and treacherous mountains, to bustling towns and eerie dungeons.
+MiniQuest employs a sprawling world map that consists of multiple, distinct smaller maps, each featuring its own unique environment, challenges, and storylines. 
 
 Certain areas have "inner maps" or "interiors", such as houses, castles, or dungeons. These interior maps often feature puzzles, quests, or enemies that are specific to that location. For example, a dungeon might be filled with traps and monsters, while a castle may contain political intrigue and quests. Interiors serve to deepen the world's lore, provide context to its inhabitants, and offer a change of pace from the outside world.
 
